@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "bootstrap-styled": "^2.5.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "node": "^12.13.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.2.0",
