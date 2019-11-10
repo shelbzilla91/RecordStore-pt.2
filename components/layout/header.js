@@ -6,8 +6,8 @@ const HeaderForm = styled.div `
 display:flex;
 flex-direction:row;
 justify-content: space-around;
-background-color:#248b8b;
-border: 5px solid black;
+background-color:#84afab;
+
 
 `
 

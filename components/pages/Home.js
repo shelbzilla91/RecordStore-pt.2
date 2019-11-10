@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
-import Header from '../components/layout/header.js';
+import Header from '../layout/header.js'
+import Menu from '../layout/menu.js'
 
  const Body = styled.div `
   
-  background-color:#17d6d2;
+  background-color:#2f2e36;
   width:100vw;
   height:100vh;
   
@@ -19,7 +20,8 @@ class Home extends Component{
     return(
     <div>
     <Body>
-      <Header/>
+    <Header/>
+    <Menu/>
       <p>yo</p>
     </Body>
     </div>
